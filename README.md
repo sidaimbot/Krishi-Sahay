@@ -45,7 +45,6 @@ Follow these steps to set up Krishi Sahay locally.
 * Node.js (v16 or higher)
 * npm or yarn
 
-### 1. Clone the Repository
+### 1. Project Link
 ```bash
-git clone [https://github.com/your-username/krishi-sahay.git](https://github.com/your-username/krishi-sahay.git)
-cd krishi-sahay
+https://krishi-sahay.netlify.app/
